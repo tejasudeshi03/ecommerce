@@ -1,6 +1,12 @@
+<<<<<<< HEAD
+=======
 node_modules
+dist
 .idea/*
-.nodejscart/*
+.nodejscart
 .vscode/*
+packages
 npm-debug.log
 package-lock.json
+prod.js
+>>>>>>> fbc0d90e (Refactor)
